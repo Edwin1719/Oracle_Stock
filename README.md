@@ -1,4 +1,4 @@
-# 💾 Sistema de Inventario Tecnológico
+# 💾 Sistema de Inventarios con Python
 
 Aplicación web moderna para la gestión de inventarios de productos tecnológicos, desarrollada con **Streamlit** y **SQLAlchemy**. Ofrece control completo de productos, seguimiento de movimientos, reportes detallados y visualización con imágenes.
 
