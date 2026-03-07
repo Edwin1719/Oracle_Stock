@@ -7,7 +7,7 @@ Aplicación web moderna para la gestión de inventarios de productos tecnológic
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0.30-green.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-3.x-orange.svg)
 
-![texto del vínculo](https://cdn.cpdonline.co.uk/wp-content/uploads/2023/04/28123407/Experienced-chef-de-partie-1200x350.jpg)
+![texto del vínculo](https://i.ytimg.com/vi/TiZrOWlxLjc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1G703dBEBvg3fYT1q18EtiJ4wMA)
 
 ---
 
